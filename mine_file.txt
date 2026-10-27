@@ -1,2 +1,6 @@
 my first lab in git
+<<<<<<< HEAD
 hello
+=======
+same work in programs
+>>>>>>> 30ed378 (commit is saving point)
